@@ -1,0 +1,15 @@
+{
+  "name": "readable-stream",
+  "version": "1.0.0",
+  "description": "readablestream-dicoding",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [
+    "dicoding"
+  ],
+  "author": "aulia",
+  "license": "ISC"
+}

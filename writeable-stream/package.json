@@ -1,0 +1,12 @@
+{
+  "name": "writeable-stream",
+  "version": "1.0.0",
+  "description": "witeablestream dicoding",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "aulia",
+  "license": "ISC"
+}
