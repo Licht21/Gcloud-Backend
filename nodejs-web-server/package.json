@@ -14,5 +14,14 @@
     "server"
   ],
   "author": "aulia",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.10"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.13.0",
+    "eslint": "^9.13.0",
+    "eslint-config-dicodingacademy": "^0.9.4",
+    "globals": "^15.11.0"
+  }
 }
